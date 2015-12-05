@@ -1,7 +1,7 @@
 @echo off
-@REM ¸öÈËÊ¹ÓÃ Powered by Caesar
+@REM ä¸ªäººä½¿ç”¨ Powered by Caesar
 @echo *******************************************************************************
-@netsh interface IP set address "Ð£Ô°Íø" static 172.30.52.224 255.255.255.0 172.30.52.1
+@netsh interface IP set address "æ ¡å›­ç½‘" static 172.30.1.1 255.255.255.0 172.30.1.1
 @if not %errorlevel% EQU 0 goto erroradmin
 @echo                                 IP OK......
 @GOTO drcom
@@ -12,10 +12,10 @@
 @goto exit
 
 :erroradmin
-@echo                       IPÉèÖÃÊ§°Ü£¬¿ÉÄÜÊÇÎ´Ê¹ÓÃ¹ÜÀíÔ±Éí·Ý´ò¿ª
+@echo                       IPè®¾ç½®å¤±è´¥ï¼Œå¯èƒ½æ˜¯æœªä½¿ç”¨ç®¡ç†å‘˜èº«ä»½æ‰“å¼€
 @GOTO exit
 :errordrcom
-@echo                            ´ò¿ª¿Í»§¶ËÊ§°Ü£¬¿ÉÄÜÊÇÎ»ÖÃ´íÎó
+@echo                            æ‰“å¼€å®¢æˆ·ç«¯å¤±è´¥ï¼Œå¯èƒ½æ˜¯ä½ç½®é”™è¯¯
 @GOTO exit
 :exit 
 @ping /n 3 127.0.0.1 >nul
