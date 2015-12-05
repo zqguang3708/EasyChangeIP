@@ -14,3 +14,5 @@ Change IP easily between the dormitory and the computer home in Harbin Institute
    对于“宿舍.bat”，你需要把你有线网的名称（我的是“校园网”），IP地址和网关，以及客户端存放的位置，改成你自己的。
    
    对于“机房自动.bat”和“机房手动.bat”，你需要把你有线网的名称（我的是“校园网”），改成你自己的。机房为主楼三楼H360网络检索室。
+
+3、强烈建议使用“机房手动.bat”，根据桌上提供的ip地址文明使用网络。有人占用才可以使用“机房手动.bat”，谨记。
