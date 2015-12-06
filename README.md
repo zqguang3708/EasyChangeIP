@@ -21,8 +21,10 @@ Change IP easily between the dormitory,classroom and the computer home in Harbin
 4、强烈建议使用“机房手动.bat”而不是“机房自动.bat”，根据机房桌上分配的ip地址文明使用网络。有人占用才可以使用“机房自动.bat”，谨记。
 
 5、如果有任何意见建议请留言或联系我，感激不尽：
+
 QQ：940233647 
+
 E-mail：940233647@qq.com
 
-Powered by zqguang3708 
- 2015年12月6日13:27:14
+                                                                                                         Powered by zqguang3708
+                                                                                                          2015年12月6日13:27:14
