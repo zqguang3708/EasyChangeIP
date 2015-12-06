@@ -2,27 +2,29 @@ EasyChangeIP
 
 Change IP easily between the dormitory,classroom and the computer home in Harbin Institute of Technology at Weihai.
 
-ÔÚ¹þ¶û±õ¹¤Òµ´óÑ§£¨Íþº££©£¬Äã¿ÉÒÔÍ¨¹ýËüºÜÈÝÒ×µÄÔÚËÞÉá£¬½ÌÑ§ÇøºÍ»ú·¿¼äÐÞ¸ÄÏàÓ¦µÄIPµØÖ·£¬²¢Æô¶¯¿Í»§¶Ë¡£
+åœ¨å“ˆå°”æ»¨å·¥ä¸šå¤§å­¦ï¼ˆå¨æµ·ï¼‰ï¼Œä½ å¯ä»¥é€šè¿‡å®ƒå¾ˆå®¹æ˜“çš„åœ¨å®¿èˆï¼Œæ•™å­¦åŒºå’Œæœºæˆ¿é—´ä¿®æ”¹ç›¸åº”çš„IPåœ°å€ï¼Œå¹¶å¯åŠ¨å®¢æˆ·ç«¯ã€‚
 
-×¢Òâ£º
+æ³¨æ„ï¼š
 
-1¡¢¸Ãbatch½öÎªÁËÄÇÐ©Æµ·±µÄÔÚËÞÉá¡¢½ÌÑ§Çø»ò»ú·¿¸ü»»Î»ÖÃµÄÍ¬Ñ§·½±ãÊ¹ÓÃ£¬²»×öÉÌÒµÓÃÍ¾£¬¿ªÔ´ÇÒÃâ·Ñ£¬¹þ¶û±õ¹¤Òµ´óÑ§£¨Íþº££©Ñ§Éú»ò½ÌÖ°¹¤¿ÉÒÔ×ÔÓÉÃâ·ÑÏÂÔØÊ¹ÓÃ¡£
+1ã€è¯¥batchä»…ä¸ºäº†é‚£äº›é¢‘ç¹çš„åœ¨å®¿èˆã€æ•™å­¦åŒºæˆ–æœºæˆ¿æ›´æ¢ä½ç½®çš„åŒå­¦æ–¹ä¾¿ä½¿ç”¨ï¼Œä¸åšå•†ä¸šç”¨é€”ï¼Œå¼€æºä¸”å…è´¹ï¼Œå“ˆå°”æ»¨å·¥ä¸šå¤§å­¦ï¼ˆå¨æµ·ï¼‰å­¦ç”Ÿæˆ–æ•™èŒå·¥å¯ä»¥è‡ªç”±å…è´¹ä¸‹è½½ä½¿ç”¨ã€‚
 
-2¡¢ÒòÎªÐèÒªÐÞ¸ÄIPµØÖ·£¬ËùÒÔÒªÇó±ØÐëÊ¹ÓÃ¹ÜÀíÔ±Éí·Ý´ò¿ª£¬·ñÔò»á³öÏÖ´íÎó¡£
+2ã€å› ä¸ºéœ€è¦ä¿®æ”¹IPåœ°å€ï¼Œæ‰€ä»¥è¦æ±‚å¿…é¡»ä½¿ç”¨ç®¡ç†å‘˜èº«ä»½æ‰“å¼€ï¼Œå¦åˆ™ä¼šå‡ºçŽ°é”™è¯¯ã€‚
 
-3¡¢ÄãÐèÒª×öµÄÐÞ¸Ä£º
+3ã€ä½ éœ€è¦åšçš„ä¿®æ”¹ï¼š
 
-¶ÔÓÚ¡°ËÞÉá.bat¡±£¬ÄãÐèÒª°ÑÄãÓÐÏßÍøµÄÃû³Æ£¨ÎÒµÄÊÇ¡°Ð£Ô°Íø¡±£©£¬IPµØÖ·ºÍÍø¹Ø£¬ÒÔ¼°¿Í»§¶Ë´æ·ÅµÄÎ»ÖÃ£¬¸Ä³ÉÄã×Ô¼ºµÄ¡£Çë×¢Òâ£¬¿Í»§¶ËÐèÒª¸ü»»ÎªËÞÉáÇø¿Í»§¶Ë£¬¿Í»§¶ËÏÂÔØµØÖ·ÊÇÄÚÍøhttp://172.17.17.17£»Èç¹ûÄãÐèÒªÆµ·±µÄÔÚ½ÌÑ§Çø¿Í»§¶ËºÍËÞÉáÇø¿Í»§¶ËÖ®¼ä¸ü»»£¬½¨ÒéÊ¹ÓÃShindo´óÉñ±àÒëµÄEasyDrcomGUI£¬µØÖ·Îªhttps://github.com/coverxit/EasyDrcomGUI.
+å¯¹äºŽâ€œå®¿èˆ.batâ€ï¼Œä½ éœ€è¦æŠŠä½ æœ‰çº¿ç½‘çš„åç§°ï¼ˆæˆ‘çš„æ˜¯â€œæ ¡å›­ç½‘â€ï¼‰ï¼ŒIPåœ°å€å’Œç½‘å…³ï¼Œä»¥åŠå®¢æˆ·ç«¯å­˜æ”¾çš„ä½ç½®ï¼Œæ”¹æˆä½ è‡ªå·±çš„ã€‚è¯·æ³¨æ„ï¼Œå®¢æˆ·ç«¯éœ€è¦æ›´æ¢ä¸ºå®¿èˆåŒºå®¢æˆ·ç«¯ï¼Œå®¢æˆ·ç«¯ä¸‹è½½åœ°å€æ˜¯å†…ç½‘http://172.17.17.17ï¼›å¦‚æžœä½ éœ€è¦é¢‘ç¹çš„åœ¨æ•™å­¦åŒºå®¢æˆ·ç«¯å’Œå®¿èˆåŒºå®¢æˆ·ç«¯ä¹‹é—´æ›´æ¢ï¼Œå»ºè®®ä½¿ç”¨Shindoå¤§ç¥žç¼–è¯‘çš„EasyDrcomGUIï¼Œåœ°å€ä¸ºhttps://github.com/coverxit/EasyDrcomGUI.
 
-¶ÔÓÚ¡°½ÌÑ§Çø.bat¡±£¬ÄãÐèÒª°ÑÄãÓÐÏßÍøµÄÃû³Æ£¨ÎÒµÄÊÇ¡°Ð£Ô°Íø¡±£©£¬ÒÔ¼°¿Í»§¶Ë´æ·ÅµÄÎ»ÖÃ£¬¸Ä³ÉÄã×Ô¼ºµÄ¡£Çë×¢Òâ£¬¿Í»§¶ËÐèÒª¸ü»»Îª½ÌÑ§Çø¿Í»§¶Ë£¬¿Í»§¶ËÏÂÔØµØÖ·ÊÇÄÚÍøhttp://172.17.17.17£»Èç¹ûÄãÐèÒªÆµ·±µÄÔÚ½ÌÑ§Çø¿Í»§¶ËºÍËÞÉáÇø¿Í»§¶ËÖ®¼ä¸ü»»£¬½¨ÒéÊ¹ÓÃShindo´óÉñ±àÒëµÄEasyDrcomGUI£¬µØÖ·Îªhttps://github.com/coverxit/EasyDrcomGUI.
+å¯¹äºŽâ€œæ•™å­¦åŒº.batâ€ï¼Œä½ éœ€è¦æŠŠä½ æœ‰çº¿ç½‘çš„åç§°ï¼ˆæˆ‘çš„æ˜¯â€œæ ¡å›­ç½‘â€ï¼‰ï¼Œä»¥åŠå®¢æˆ·ç«¯å­˜æ”¾çš„ä½ç½®ï¼Œæ”¹æˆä½ è‡ªå·±çš„ã€‚è¯·æ³¨æ„ï¼Œå®¢æˆ·ç«¯éœ€è¦æ›´æ¢ä¸ºæ•™å­¦åŒºå®¢æˆ·ç«¯ï¼Œå®¢æˆ·ç«¯ä¸‹è½½åœ°å€æ˜¯å†…ç½‘http://172.17.17.17ï¼›å¦‚æžœä½ éœ€è¦é¢‘ç¹çš„åœ¨æ•™å­¦åŒºå®¢æˆ·ç«¯å’Œå®¿èˆåŒºå®¢æˆ·ç«¯ä¹‹é—´æ›´æ¢ï¼Œå»ºè®®ä½¿ç”¨Shindoå¤§ç¥žç¼–è¯‘çš„EasyDrcomGUIï¼Œåœ°å€ä¸ºhttps://github.com/coverxit/EasyDrcomGUI.
 
-¶ÔÓÚ¡°»ú·¿×Ô¶¯.bat¡±ºÍ¡°»ú·¿ÊÖ¶¯.bat¡±£¬ÄãÐèÒª°ÑÄãÓÐÏßÍøµÄÃû³Æ£¨ÎÒµÄÊÇ¡°Ð£Ô°Íø¡±£©£¬¸Ä³ÉÄã×Ô¼ºµÄ¡£Çë×¢Òâ£¬»ú·¿ÎªÖ÷Â¥ÈýÂ¥H360ÍøÂç¼ìË÷ÊÒ¡£
+å¯¹äºŽâ€œæœºæˆ¿è‡ªåŠ¨.batâ€å’Œâ€œæœºæˆ¿æ‰‹åŠ¨.batâ€ï¼Œä½ éœ€è¦æŠŠä½ æœ‰çº¿ç½‘çš„åç§°ï¼ˆæˆ‘çš„æ˜¯â€œæ ¡å›­ç½‘â€ï¼‰ï¼Œæ”¹æˆä½ è‡ªå·±çš„ã€‚è¯·æ³¨æ„ï¼Œæœºæˆ¿ä¸ºä¸»æ¥¼ä¸‰æ¥¼H360ç½‘ç»œæ£€ç´¢å®¤ã€‚
 
-4¡¢Ç¿ÁÒ½¨ÒéÊ¹ÓÃ¡°»ú·¿ÊÖ¶¯.bat¡±¶ø²»ÊÇ¡°»ú·¿×Ô¶¯.bat¡±£¬¸ù¾Ý»ú·¿×ÀÉÏ·ÖÅäµÄipµØÖ·ÎÄÃ÷Ê¹ÓÃÍøÂç¡£ÓÐÈËÕ¼ÓÃ²Å¿ÉÒÔÊ¹ÓÃ¡°»ú·¿×Ô¶¯.bat¡±£¬½÷¼Ç¡£
+4ã€å¼ºçƒˆå»ºè®®ä½¿ç”¨â€œæœºæˆ¿æ‰‹åŠ¨.batâ€è€Œä¸æ˜¯â€œæœºæˆ¿è‡ªåŠ¨.batâ€ï¼Œæ ¹æ®æœºæˆ¿æ¡Œä¸Šåˆ†é…çš„ipåœ°å€æ–‡æ˜Žä½¿ç”¨ç½‘ç»œã€‚æœ‰äººå ç”¨æ‰å¯ä»¥ä½¿ç”¨â€œæœºæˆ¿è‡ªåŠ¨.batâ€ï¼Œè°¨è®°ã€‚
 
-5¡¢Èç¹ûÓÐÈÎºÎÒâ¼û½¨ÒéÇëÁôÑÔ»òÁªÏµÎÒ£º
-QQ£º940233647 
-E-mail£º940233647@qq.com
+5ã€å¦‚æžœæœ‰ä»»ä½•æ„è§å»ºè®®è¯·ç•™è¨€æˆ–è”ç³»æˆ‘ï¼š
+QQï¼š940233647 
 
-2015Äê12ÔÂ6ÈÕ13:09:34
+E-mailï¼š940233647@qq.com
+
+2015å¹´12æœˆ6æ—¥13:09:34
+
 Powered by zqguang3708
